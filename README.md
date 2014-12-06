@@ -1,8 +1,15 @@
 # サンプルアプリケーション: Blog
 
-本リポジトリは、[Ruby on Rails ガイド](http://railsguides.jp)の「[Railsをはじめよう](http://railsguides.jp/getting_started.html)」で題材として紹介されている __Blog__ アプリケーションのサンプルコードです。
+本リポジトリは、[Ruby on Rails ガイド](http://railsguides.jp)の「[Railsをはじめよう](http://railsguides.jp/getting_started.html)」で題材となっている   
+Blog　アプリケーションのサンプルコードです。
 
-Blog アプリケーションがうまく作れなかったときや、コードを見返してみたいときなどにご活用ください。
+Blog アプリケーションがうまく作れなかったときや、   
+コードを見返してみたいときなどにご活用ください。
+
+なお、本アプリケーションは Heroku 上に公開されています。   
+まずは[公開されている Blog アプリケーション](https://getting-started-jp.herokuapp.com/)を触ってみて、   
+完成系のイメージを先に掴んでみても良いかもしれません :D
+
 
 ## 「Railsをはじめよう」を読み終わったら?
 
