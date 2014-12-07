@@ -1,7 +1,7 @@
 # サンプルアプリケーション: Blog
 
 本リポジトリは、[Ruby on Rails ガイド](http://railsguides.jp)の「[Railsをはじめよう](http://railsguides.jp/getting_started.html)」で題材となっている   
-Blog　アプリケーションのサンプルコードです。
+Blog アプリケーションのサンプルコードです。
 
 Blog アプリケーションがうまく作れなかったときや、   
 コードを見返してみたいときなどにご活用ください。
