@@ -28,6 +28,8 @@ SNSの開発を題材にして、Git/GitHubを使ったバージョン管理、H
 
 ## ライセンス
 
+Copyright &copy; 2014-2015 [YassLab](http://yasslab.jp)
+
 [![CC BY-SA International](https://dl.dropboxusercontent.com/u/2819285/CC-BY-SA.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 This work is licensed under a [Creative Commons Attribution-Share Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
